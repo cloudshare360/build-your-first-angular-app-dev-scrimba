@@ -6,3 +6,10 @@ Scrimba Provides a Free Course for Angular.
 Angular 5.0
 Will create a dev container to set the environment with Angular 5 and a compatible NodeJS Version.
 
+
+![alt text](image.png)
+
+```mermaid
+graph TD
+    A[Start] --> B[End]
+```
